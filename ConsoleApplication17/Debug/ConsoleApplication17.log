@@ -1,0 +1,6 @@
+﻿  ConsoleApplication17.cpp
+e:\c++\homework\сохранение ,чтение из файла\consoleapplication17\consoleapplication17\consoleapplication17.cpp(42): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  list2link.cpp
+  tpoint.cpp
+  Создание кода...
+  ConsoleApplication17.vcxproj -> E:\C++\HomeWork\Сохранение ,чтение из файла\ConsoleApplication17\Debug\ConsoleApplication17.exe
